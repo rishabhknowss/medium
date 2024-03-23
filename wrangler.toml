@@ -1,9 +1,9 @@
 name = "medium"
 compatibility_date = "2023-12-01"
 
-# [vars]
-DATABASE_URL = "prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMGYwZjkzMmItNTgwYS00MjNjLThmY2UtZDQ5YTY2NDQzYjM1IiwidGVuYW50X2lkIjoiNzRiZWJkOGJjNTJjZjU2Zjg0ZmJkZTVjYjEwNjlkMTU2ZjYxNWE5ODZmZTg3NTVjNDBjODRlMDQ4OTNlMWFmZSIsImludGVybmFsX3NlY3JldCI6IjRhOWJlOTBlLTRkYWEtNGMwNy05MzhiLWExNDM0OTc0NDkwMiJ9.1Pt6OC3dKsXcskfhILYmd2pNssomhUDCoZjpdrg3QIY"
-
+[vars]
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiNmQ5ODI2Y2ItZTY2Zi00MGM4LWI4M2EtMTgwMGJlNjZiMWFjIiwidGVuYW50X2lkIjoiZDk5MWM5OWIxMjUxMTA3MzJjODQxMWU1MjllMmExNDc3NzA5MTc4MWVkMGVmNzgwZjU0YTRhOGMzMDZiZjNjYiIsImludGVybmFsX3NlY3JldCI6ImIxNGE5YjRhLWY2OWEtNGExNC1hMWE2LWQzOGNkMzIyMGM1YSJ9.hbwy7n9L_AzGjMuPIeY49uXUq8MTg9yRgUDi6az-GGU"
+JWT_SECRET = "RISHABHRAI"
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
 # id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
